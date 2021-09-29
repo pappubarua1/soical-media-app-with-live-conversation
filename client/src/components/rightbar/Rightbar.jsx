@@ -30,11 +30,11 @@ export default function Rightbar({ profile }) {
                 <div className="rightbarInfo">
                     <div className="rightbarInfoItem">
                         <span className="rightbarInfoKey">City:</span>
-                        <span className="rightbarInfoValue">New York</span>
+                        <span className="rightbarInfoValue">Bangladesh</span>
                     </div>
                     <div className="rightbarInfoItem">
                         <span className="rightbarInfoKey">From:</span>
-                        <span className="rightbarInfoValue">Madrid</span>
+                        <span className="rightbarInfoValue">Chittagong</span>
                     </div>
                     <div className="rightbarInfoItem">
                         <span className="rightbarInfoKey">Relationship:</span>
@@ -57,7 +57,7 @@ export default function Rightbar({ profile }) {
                             alt=""
                             className="rightbarFollowingImg"
                         />
-                        <span className="rightbarFollowingName">John Carter</span>
+                        <span className="rightbarFollowingName">John Carler</span>
                     </div>
                     <div className="rightbarFollowing">
                         <img
@@ -65,7 +65,7 @@ export default function Rightbar({ profile }) {
                             alt=""
                             className="rightbarFollowingImg"
                         />
-                        <span className="rightbarFollowingName">John Carter</span>
+                        <span className="rightbarFollowingName">John heaven</span>
                     </div>
                     <div className="rightbarFollowing">
                         <img
@@ -73,7 +73,7 @@ export default function Rightbar({ profile }) {
                             alt=""
                             className="rightbarFollowingImg"
                         />
-                        <span className="rightbarFollowingName">John Carter</span>
+                        <span className="rightbarFollowingName">John carlos</span>
                     </div>
                     <div className="rightbarFollowing">
                         <img
@@ -81,7 +81,7 @@ export default function Rightbar({ profile }) {
                             alt=""
                             className="rightbarFollowingImg"
                         />
-                        <span className="rightbarFollowingName">John Carter</span>
+                        <span className="rightbarFollowingName">John helman</span>
                     </div>
                     <div className="rightbarFollowing">
                         <img
@@ -89,7 +89,7 @@ export default function Rightbar({ profile }) {
                             alt=""
                             className="rightbarFollowingImg"
                         />
-                        <span className="rightbarFollowingName">John Carter</span>
+                        <span className="rightbarFollowingName">John david</span>
                     </div>
                 </div>
             </>
