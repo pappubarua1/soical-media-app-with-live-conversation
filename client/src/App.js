@@ -11,7 +11,15 @@ import {
   from "react-router-dom";
 
 function App() {
-  return <Profile />;
+  return (
+    <Router>
+      <switch>
+        <Route path="/">
+          <Home />
+        </Route>
+      </switch>
+    </Router>
+  );
 }
 
 export default App;
