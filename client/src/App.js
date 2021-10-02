@@ -13,11 +13,20 @@ import {
 function App() {
   return (
     <Router>
-      <switch>
-        <Route path="/">
+      <Switch>
+        <Route exact path="/">
           <Home />
         </Route>
-      </switch>
+        <Route path="/login">
+          <Login />
+        </Route>
+        <Route path="/register">
+          <Register />
+        </Route>
+        <Route path="/profile/:username">
+          <Profile />
+        </Route>
+      </Switch>
     </Router>
   );
 }
